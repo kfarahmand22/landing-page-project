@@ -6,7 +6,7 @@
 .pageHeader {
     background-color: #1F2937;
     color: #ffffff;
-    
+      
 }
 
 .signUp {
@@ -17,6 +17,7 @@
 .sectionOne {
     background-color: #1F2937;
     color: #ffffff;
+    width: auto;
 }
 
 
