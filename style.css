@@ -6,10 +6,12 @@
 .pageHeader {
     background-color: #1F2937;
     color: #ffffff;
+    
 }
 
 .sectionOne {
     background-color: #1F2937;
+    color: #ffffff;
 }
 
 .sectionThree{
@@ -42,4 +44,5 @@
 
 .pageFooter {
     background-color: #1F2937;
+    color: #ffffff;
 }
