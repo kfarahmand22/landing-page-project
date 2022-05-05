@@ -1,2 +1,19 @@
-Ctr+G
+* {
+    background-color: #000000;
+}
 
+.pageHeader {
+    background-color: #1F2937;
+}
+
+.sectionOne{
+    background-color: #1F2937;
+}
+
+.sectionThree{
+    background-color: #ffffff;
+}
+
+.sectionFour{
+    background-color: #808080;
+}
