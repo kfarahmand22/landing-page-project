@@ -26,7 +26,7 @@
 
 .flex-containerOne div{
     background: #1F2937;
-    boarder 4px solid white;
+    border: 4px solid white;
     flex: 1;
 }
 
@@ -36,7 +36,7 @@
 
 .flex-containerTwo div{
     background: #ffffff;
-    boarder 4px solid white;
+    border: 4px solid white;
     flex: 1;
 }
 
