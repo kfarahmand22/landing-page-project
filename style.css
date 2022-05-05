@@ -1,19 +1,45 @@
 * {
-    background-color: #000000;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .pageHeader {
     background-color: #1F2937;
+    color: #ffffff;
 }
 
-.sectionOne{
+.sectionOne {
     background-color: #1F2937;
 }
 
 .sectionThree{
-    background-color: #ffffff;
+    background-color: #d3d3d3
 }
 
 .sectionFour{
-    background-color: #808080;
+    background-color: #ffffff;
+}
+
+.flex-containerOne {
+    display: flex;
+}
+
+.flex-containerOne div{
+    background: #1F2937;
+    boarder 4px solid white;
+    flex: 1;
+}
+
+.flex-containerTwo {
+    display: flex;
+}
+
+.flex-containerTwo div{
+    background: #ffffff;
+    boarder 4px solid white;
+    flex: 1;
+}
+
+.pageFooter {
+    background-color: #1F2937;
 }
